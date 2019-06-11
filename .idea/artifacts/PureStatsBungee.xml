@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PureStatsBungee">
+    <output-path>$PROJECT_DIR$/out/artifacts/PureStatsBungee</output-path>
+    <root id="archive" name="PureStatsBungee.jar">
+      <element id="file-copy" path="$PROJECT_DIR$/res/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/res/plugin.yml" />
+      <element id="module-output" name="PureStatsListener" />
+    </root>
+  </artifact>
+</component>
